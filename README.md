@@ -59,9 +59,10 @@ requests==2.31.0
 
 ## Preview
 
-<img width="1228" height="862" alt="image" src="https://github.com/user-attachments/assets/4fc2e387-dc74-49a9-9e2a-5f6b3bfcf232" />
+<img width="728" height="462" alt="image" src="https://github.com/user-attachments/assets/4fc2e387-dc74-49a9-9e2a-5f6b3bfcf232" />
 
-<img width="1013" height="898" alt="image" src="https://github.com/user-attachments/assets/84ad43ff-7029-45b8-977e-3d4e2741e3fe" />
+
+<img width="713" height="498" alt="image" src="https://github.com/user-attachments/assets/84ad43ff-7029-45b8-977e-3d4e2741e3fe" />
 
 
 
