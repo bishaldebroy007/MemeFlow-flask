@@ -57,6 +57,14 @@ Flask==2.3.3
 requests==2.31.0
 ```
 
+## Preview
+
+<img width="1228" height="862" alt="image" src="https://github.com/user-attachments/assets/4fc2e387-dc74-49a9-9e2a-5f6b3bfcf232" />
+
+<img width="1013" height="898" alt="image" src="https://github.com/user-attachments/assets/84ad43ff-7029-45b8-977e-3d4e2741e3fe" />
+
+
+
 Then run `pip install -r requirements.txt`
 
 4. Run the application
